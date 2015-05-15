@@ -1,0 +1,15 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "Imitate a class system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "yuandong",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
